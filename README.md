@@ -40,9 +40,9 @@ A web application that allows users to search for the weather conditions in a sp
 
 5. Open a web browser and navigate to http://localhost:3000.
 
-6. Enter a location into the search bar and click the "Search" button.
+6. Enter a location into the search bar and click the **"Search"** button.
 
-7. The current weather conditions, temperature, and humidity for the selected location will be displayed.
+7. The **current weather conditions**, **temperature**, and **humidity** for the selected location will be displayed.
 
 
 ## Contributing
@@ -64,6 +64,3 @@ A web application that allows users to search for the weather conditions in a sp
 ## Path to my Front-End and Back-End code:
 **Front-End** --> `client/src/Component/client.js`\
 **Back-End** --> `server/src/server.js`
-
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
