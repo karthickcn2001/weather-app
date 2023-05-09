@@ -27,7 +27,7 @@ A web application that allows users to search for the weather conditions in a sp
 #### To use the Weather Application, follow these steps:
 
 1. Change into the client directory:\
-`cd client/src/component/client.js`
+`cd client/src/Component/client.js`
 
 2. Start the front-end of the application:\
 `npm start`
@@ -61,6 +61,9 @@ A web application that allows users to search for the weather conditions in a sp
 
 4. Submit a pull request.
 
+## Path to my Front-End and Back-End code:
+**Front-End** --> `client/src/Component/client.js`\
+**Back-End** --> `server/src/server.js`
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
